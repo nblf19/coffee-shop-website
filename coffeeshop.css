@@ -12,7 +12,7 @@ body {
 
 /* container satu */
 .container-satu {
-  background-image: url("bg1.JPG");
+  background-image: url("./bg1.JPG");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
